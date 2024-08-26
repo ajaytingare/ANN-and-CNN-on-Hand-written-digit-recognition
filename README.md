@@ -28,7 +28,7 @@ Pooling layers: Reduce the dimensionality of feature maps.
 Fully connected layers: Make predictions based on extracted features.
 Output layer: Similar to ANN, with 10 neurons for digit classification.
 
-  P e r f o r m a n c e   C o m p a r i s o n:
+  Performance Comparison:
   
 The notebook compares the performance of ANN and CNN models in terms of:
 
@@ -36,7 +36,7 @@ Accuracy: How well the model predicts the correct digit.
 Training time: The time taken to train each model.
 Model complexity: The number of parameters and layers in each model.
 
-  K e y   F i n d i n g s:
+  Key Findings:
   
 CNN typically outperforms ANN in terms of accuracy due to its ability to capture spatial hierarchies in image data.
 ANN is faster to train but may not achieve the same level of accuracy as CNN, especially for image recognition tasks.
