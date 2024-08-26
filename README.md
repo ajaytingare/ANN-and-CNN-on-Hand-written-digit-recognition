@@ -1,7 +1,8 @@
 # ANN-and-CNN-on-Hand-written-digit-recognition
 This repository, titled "ANN and CNN on Hand-written Digit Recognition," showcases a comparative analysis of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) on the MNIST dataset. It explores how each model performs in recognizing hand-written digits, with a focus on accuracy, model architecture, and processing efficiency.
 
-#Project Structure
+Project Structure
+
 ANN-and-CNN-on-Handwritten-Digit-Recognition.ipynb: The main Jupyter Notebook that contains the implementation and comparison of the ANN and CNN models on the MNIST dataset.
 README.md: This file provides an overview of the project, instructions for usage, and details about the models and dataset.
 Dataset
