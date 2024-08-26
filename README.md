@@ -47,3 +47,6 @@ TensorFlow or PyTorch (depending on the implementation)
 NumPy
 
 Matplotlib
+
+If you want to impliment your own thoughts on these models, there is colab file:
+https://colab.research.google.com/drive/10Z88jH6Cjcm15PbOM0s4dM0YcsN4bUIG?usp=sharing
