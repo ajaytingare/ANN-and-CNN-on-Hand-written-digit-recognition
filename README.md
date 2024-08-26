@@ -10,6 +10,12 @@ README.md: This file provides an overview of the project, instructions for usage
 
 The MNIST dataset is a widely used dataset in the field of machine learning and computer vision. It contains 60,000 training images and 10,000 test images of handwritten digits. Each image is grayscale and has a resolution of 28x28 pixels.
 
+  Objective:
+
+This is dummy dataset as all knows, but main objective of this work is to predict the own hand-written digit by those both model.
+And check the performance of both ANN and CNN models.
+
+
   Models Implemented:
   
   1. Artificial Neural Network (ANN):
@@ -55,3 +61,4 @@ Matplotlib
 
 If you want to impliment your own thoughts on these models, there is colab file:
 https://colab.research.google.com/drive/10Z88jH6Cjcm15PbOM0s4dM0YcsN4bUIG?usp=sharing
+
