@@ -1,14 +1,14 @@
 # ANN-and-CNN-on-Hand-written-digit-recognition
 This repository, titled "ANN and CNN on Hand-written Digit Recognition," showcases a comparative analysis of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) on the MNIST dataset. It explores how each model performs in recognizing hand-written digits, with a focus on accuracy, model architecture, and processing efficiency.
 
-Project Structure
+  P r o j e c t   S t r u c t u r e:
 
 ANN-and-CNN-on-Handwritten-Digit-Recognition.ipynb: The main Jupyter Notebook that contains the implementation and comparison of the ANN and CNN models on the MNIST dataset.
 README.md: This file provides an overview of the project, instructions for usage, and details about the models and dataset.
 Dataset
 The MNIST dataset is a widely used dataset in the field of machine learning and computer vision. It contains 60,000 training images and 10,000 test images of handwritten digits. Each image is grayscale and has a resolution of 28x28 pixels.
 
-Models Implemented
+  M o d e l s   I m p l e m e n t e d:
 1. Artificial Neural Network (ANN)
 
 A basic neural network with fully connected layers.
@@ -25,14 +25,14 @@ Pooling layers: Reduce the dimensionality of feature maps.
 Fully connected layers: Make predictions based on extracted features.
 Output layer: Similar to ANN, with 10 neurons for digit classification.
 
-Performance Comparison
+  P e r f o r m a n c e   C o m p a r i s o n:
 The notebook compares the performance of ANN and CNN models in terms of:
 
 Accuracy: How well the model predicts the correct digit.
 Training time: The time taken to train each model.
 Model complexity: The number of parameters and layers in each model.
 
-Key Findings:
+  K e y   F i n d i n g s:
 CNN typically outperforms ANN in terms of accuracy due to its ability to capture spatial hierarchies in image data.
 ANN is faster to train but may not achieve the same level of accuracy as CNN, especially for image recognition tasks.
 
